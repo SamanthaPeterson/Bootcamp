@@ -27,3 +27,11 @@
 .tiny {
     font-size:65%;
 }
+
+.bold {
+    font-weight:bold
+}
+
+.change_font {
+    font-family:fantasy
+}
