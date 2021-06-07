@@ -11,3 +11,19 @@
 .red {
     color: #FF0000;
 }
+
+.blue {
+    color: #2525bd;
+}
+
+.green {
+    color: hsl(122, 68%, 35%);
+}
+
+.big {
+    font-size:300%;
+}
+
+.tiny {
+    font-size:65%;
+}
