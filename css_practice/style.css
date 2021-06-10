@@ -1,8 +1,3 @@
-/* 
-.{blah} means it is a class add is applied to the element using class="{blah}" 
-#{blah} is an ID and applies to the object with id="{blah}" NOTE: only one object should have a given id
-*/
-
 .centered {
     text-align: center;
     color: rgb(0, 0, 0);
