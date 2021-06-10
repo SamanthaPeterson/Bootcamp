@@ -5,7 +5,7 @@
 
 .centered {
     text-align: center;
-    color: cyan;
+    color: rgb(0, 0, 0);
 }
 
 .red {
@@ -39,3 +39,19 @@
 .orange {
     color: #ff8800e2;
 }
+
+
+                                                                                                   
+
+.styledfont {
+    color: hsl(122, 68%, 35%);
+    font-stretch:expanded;
+    font-size: small;                                                              
+    font-family: Georgia;
+}
+
+#mustard {
+    border: 50px solid rgb(255, 191, 0);
+}
+
+                                                 
