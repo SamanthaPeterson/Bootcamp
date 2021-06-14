@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "browser-preview",
+            "request": "launch",
+            "name": "Browser Preview: Launch",
+            "url": "http://localhost:3000"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open watch_that_box_round3_sp.html",
+            "file": "/Users/samanthapeterson/Desktop/Bootcamp/2021_week_0_june_01_to_13_UofUCoding/javascript_prework_watch_that_box/watch_that_box_round3_sp.html"
+        }
+    ]
+}
